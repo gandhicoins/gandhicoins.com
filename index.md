@@ -1,6 +1,6 @@
 # Gandhi Token
 
-## A Decentralized Meme Token Created to donate.
+## A Decentralized meme token created to donate as many coins as possible.
 
 ### It will become largest donation in History of Crypto.
 
